@@ -134,8 +134,8 @@ chicago_workforce_analytics/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/badhikary/ai_accelerated_human_validated_analytics_workflow_chicago_workforce_project.git
-cd ai_accelerated_human_validated_analytics_workflow_chicago_workforce_project
+git clone https://github.com/badhikary/ai-accelerated-chicago-workforce-analytics.git
+cd ai-accelerated-chicago-workforce-analytics
 ```
 
 ### 2. Set Up Environment
